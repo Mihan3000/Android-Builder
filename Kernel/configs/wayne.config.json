@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Mi6X",
-      "repo": "https://github.com/Diva-Room/Miku_kernel_xiaomi_wayne",
+      "name": "x3GT",
+      "repo": "https://github.com/Mihan3000/kernel_xiaomi_chopin.git",
       "branch": "TDA",
-      "device": "wayne",
-      "defconfig": "vendor/wayne_defconfig"
+      "device": "chopin",
+      "defconfig": "vendor/chopin_defconfig"
     },
     "toolchains": [
       {
