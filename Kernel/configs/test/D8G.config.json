@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "D8G（Poco_F3）",
-      "repo": "https://github.com/diphons/D8G_Kernel_oxygen/",
-      "branch": "13",
-      "device": "alioth",
-      "defconfig": "vendor/xiaomi/alioth.config"
+      "name": "Redmi Note 10 Pro",
+      "repo": "https://github.com/Mihan3000/kernel_xiaomi_chopin.git",
+      "branch": "15",
+      "device": "chopin",
+      "defconfig": "vendor/xiaomi/chopin.config"
     },
     "toolchains": [
       {
