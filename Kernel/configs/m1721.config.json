@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "x3GT",
+      "name": "M6_Note",
       "repo": "https://github.com/Mihan3000/kernel_xiaomi_chopin.git",
       "branch": "TDA",
-      "device": "chopin",
-      "defconfig": "vendor/chopin_defconfig"
+      "device": "m1721",
+      "defconfig": "vendor/m1721_defconfig"
     },
     "toolchains": [
       {
