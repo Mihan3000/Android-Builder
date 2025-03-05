@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "M6_Note",
-      "repo": "https://github.com/Mihan3000/kernel_xiaomi_chopin.git",
-      "branch": "TDA",
+      "repo": "https://github.com/meizucustoms/android_kernel_meizu_m1721.git",
+      "branch": "lineage-20",
       "device": "m1721",
       "defconfig": "vendor/m1721_defconfig"
     },
