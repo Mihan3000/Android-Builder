@@ -10,7 +10,7 @@ on:
 
 jobs:
   Read-configuration:
-    name: wayne.config.json
+    name: Parse *.config.json
     runs-on: ubuntu-latest
     outputs:
       CONFIGS: ${{ steps.generate-matrix.outputs.CONFIGS }}
