@@ -5,7 +5,7 @@
       "repo": "https://github.com/Mihan3000/android_kernel_meizu_m1721.git",
       "branch": "lineage-20",
       "device": "m1721",
-      "defconfig": "vendor/m1721_defconfig"
+      "defconfig": "m1721_defconfig"
     },
     "toolchains": [
       {
